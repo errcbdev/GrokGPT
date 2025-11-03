@@ -27,6 +27,4 @@ export default async function $mistral(prompt: string) {
     console.error(error);
     return null;
   }
-} null;
-  }
 }
