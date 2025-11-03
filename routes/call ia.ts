@@ -31,6 +31,5 @@ app.post('/mistral', async (request, reply) => {
   const response = await $mistral(prompt);
   return { response };
 });
-  
-})
+
 
