@@ -28,6 +28,4 @@ export default async function $grok(prompt: string) {
     console.error(error);
     return null;
   }
-}ull;
-  }
 }
