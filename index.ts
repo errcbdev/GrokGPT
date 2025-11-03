@@ -1,4 +1,4 @@
-import { app } from './routes/call ai';
+import { app } from './routes/call-ai';
 
 const PORT = process.env.PORT || 3000;
 
