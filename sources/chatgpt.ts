@@ -26,6 +26,4 @@ export default async function $chatgpt(prompt: string) {
     console.error(error);
     return null;
   }
-}urn null;
-  }
 }
